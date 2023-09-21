@@ -1,12 +1,23 @@
 *{
     margin: 0px;
-    padding: 0px;
-    color: aqua;
+    padding: 0px;;
+    
 }
 
 .menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 1000px;;
-    width: 60px;
+    width: 75px;
     background-color: #63a0cc;
+    
 
+}
+
+
+
+body ul li img{
+    height: 30px;
+    width: 30px;
 }
